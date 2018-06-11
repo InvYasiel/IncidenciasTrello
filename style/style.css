@@ -1,0 +1,10 @@
+#contenedor{
+    width: 50%;
+    margin: 0 auto;
+}
+#cabecera{
+    margin: 0 auto;
+}
+#botones{
+    left: 5px;
+}
